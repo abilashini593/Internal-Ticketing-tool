@@ -1,4 +1,4 @@
-#Internal Ticketing Tool
+##Internal Ticketing Tool
 Overview
 
 The Internal Ticketing Tool is a web-based support management system designed to help employees raise, track, and manage support requests across internal departments such as HR, Finance, and Administration. The platform streamlines issue resolution through centralized ticket management, real-time status tracking, and AI-assisted ticket handling.
